@@ -1,0 +1,25 @@
+**********************************************************************************************************************************************************************************************************************************************
+
+** WARNING**
+
+BY DOWNLOADING THIS FILE YOU ARE AGREEING TO ONLY TO USE THE "KEY LOGGER" ON YOUR OWN PERSONAL HARDWARE, AND/OR IN EDUCATIONAL SETTINGS WHERE YOU'RE GIVEN PERMISSION FROM THE OWNER OF THE HARDWARE TO USE THE "KEY LOGGER" APPLICATION.
+
+ANY OTHER USE OF THIS APPLICATION IS PROHIBITED! 	
+
+YOU ARE RESPONISBLE FOR ANY REPERCUSSIONS THAT COME WITH VIOLATING THIS AGREEMENT.	
+
+**********************************************************************************************************************************************************************************************************************************************
+
+** DESCRIPTION **
+
+---THIS IS A SIMPLE WINDOWS KEY LOGGER, THAT LOGS THE KEY STOKES OF THE COMPUTER THAT THE APPLICATION IS RUNNING ON.
+
+
+---THE KEY STROKES ARE LOGGED, AND SAVED IN A .TXT FILE LOCATED IN THE SAME DIRECTORY AS THE APPLICATION. (ex: if the "key logger" is located on your desktop then the .txt file will pop up on your desktop)
+
+
+---A COOL USE CASE FOR THIS APPLICATION IS THAT YOU CAN PAIR IT WITH A USB DRIVE, OR EVEN USE A USB MASS STORAGE DISK IMAGE ON THE FLIPPER ZERO. ALL YOUR HAVE TO DO IS RUN THE APPLICATION ON YOUR PC FROM THE STORAGE DEVICE, AND ALL THE KEY STROKES WILL BE SAVED TO THE .TXT FILE ON THE STORAGE DEVICE.
+
+CREATED ON 7/16/24
+
+**********************************************************************************************************************************************************************************************************************************************
